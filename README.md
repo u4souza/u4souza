@@ -10,7 +10,7 @@
 
 ## Public Information
 
-My name's Uilson Souza, I'm a systems analysis student. I study programming for about 1 year. I like to read, play sports and program. My favorite languages're PHP and JavaScript.
+My name's Uilson Souza, I'm a systems analysis student. I study programming for about 1 year. I like to read, play sports, program and favorite languages are PHP and JavaScript.
 
 
 ## About me
