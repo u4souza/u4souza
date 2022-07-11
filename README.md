@@ -17,7 +17,7 @@ My name's Uilson Souza, I'm a systems analysis student. I study programming for 
 
 ▪**Name:** Uilson Souza
 <br>
-▪**Living:** Pernambuco, BR
+▪**Living in:** Pernambuco, BR
 <br>
 ▪**University:** Systems Analysis
 <br>
