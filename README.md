@@ -1,16 +1,25 @@
-### Hi there 👋
+## {php} Brazilian Dev
+<a 
+   href="https://www.linkedin.com/in/uilson-souza-566a53164/" target="_blank">
+   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
+   <a href="https://www.instagram.com/u7souza/" target="_blank"> 
+   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<hr>
 
-<!--
-**u4souza/u4souza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Public Information
 
-Here are some ideas to get you started:
+My name's Uilson Souza, I'm a systems analysis student. I study programming for about 1 year. I like to read, play sports and program. My favorite languages're PHP and JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## About me
+
+▪**Name:** Uilson Souza
+<br>
+▪**Living:** Pernambuco, BR
+<br>
+▪**University:** Systems Analysis
+<br>
+▪**Stack:** PHP | Laravel | JS
+<br>
